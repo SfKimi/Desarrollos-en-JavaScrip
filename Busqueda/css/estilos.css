@@ -1,0 +1,48 @@
+body{
+   background-image: url("../img/sunshine.png");
+   }
+   
+   .jumbotron{
+       background-color: deepskyblue;
+       color: white;
+       
+   }
+   
+   .panel-heading{
+       background-color: deeppink  !important;
+       color:white !important; 
+   }
+   
+   .panel-body{
+      
+       color:black !important; 
+   }
+   
+   
+   
+   .navbar{
+       
+       background-color: #ebcccc;
+       
+   }
+   
+   
+   
+   .navbar-brand:link, .navbar-brand:viseted {
+       color: darkorange !important;
+   }
+   
+   .navbar-brand:hover, .navbar-brand:active {
+       color: darkorange !important;
+   }
+   
+   
+   #navbar li a:link, #navbar li a:visited {
+       color: white !important;
+   }
+   
+    #navbar li a:hover, #navbar li a:active {
+       color: darkorange !important;
+   }
+   
+   
